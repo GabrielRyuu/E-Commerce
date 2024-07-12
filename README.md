@@ -1,4 +1,4 @@
-## 📝 Descrição 
+## 📝 WORKING... 
 ## E-commerce com Spring Boot, React.js e MySQL ##
 Este é um projeto de e-commerce completo desenvolvido do zero utilizando tecnologias modernas. O objetivo é demonstrar a criação de uma aplicação web de comércio eletrônico que inclui funcionalidades como autenticação de usuário, gerenciamento de produtos, carrinho de compras e integração com PayPal para envio de faturas. O projeto é dividido em duas partes principais: backend e frontend.
 
